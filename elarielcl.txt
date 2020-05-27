@@ -1,0 +1,1 @@
+git bisect is very cool but I'm worried about using it when the bug has been introduced sevaral time in the code!
